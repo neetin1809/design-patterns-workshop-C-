@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anticorruption-core", "Anticorruption-core.csproj", "{B04C56AD-539B-4C77-96D5-FCF741D4AEAA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anticorruption_Core.Tests", "..\..\..\..\test\C#\Decorator_Core.Tests\Anticorruption_Core.Tests.csproj", "{48AB7B87-CA74-4C9B-A31C-DF0F4086C830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B04C56AD-539B-4C77-96D5-FCF741D4AEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04C56AD-539B-4C77-96D5-FCF741D4AEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04C56AD-539B-4C77-96D5-FCF741D4AEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04C56AD-539B-4C77-96D5-FCF741D4AEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48AB7B87-CA74-4C9B-A31C-DF0F4086C830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48AB7B87-CA74-4C9B-A31C-DF0F4086C830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48AB7B87-CA74-4C9B-A31C-DF0F4086C830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48AB7B87-CA74-4C9B-A31C-DF0F4086C830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EA7F53B-2D92-488F-AC05-EDF101744D48}
+	EndGlobalSection
+EndGlobal
