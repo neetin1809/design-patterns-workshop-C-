@@ -28,7 +28,7 @@ namespace Meditator.Core.Tests
             Assert.AreEqual("10", calculator.getDisplay().getText());//---10
 
             calculator.getEqualTo().click();
-            Assert.AreEqual("11", calculator.getDisplay().getText());
+            Assert.AreEqual("11", calculator.getDisplay().getText());   
 
         }
     }

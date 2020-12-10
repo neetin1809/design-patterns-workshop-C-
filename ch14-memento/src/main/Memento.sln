@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento.Core", "Memento.Core\Memento.Core.csproj", "{05D13D17-C7A9-4C43-B398-7A1446B8B230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento.Test", "..\test\Memento.Test\Memento.Test.csproj", "{A7FC4EEE-A6C0-4DE0-9F74-8C44CC957700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05D13D17-C7A9-4C43-B398-7A1446B8B230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D13D17-C7A9-4C43-B398-7A1446B8B230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D13D17-C7A9-4C43-B398-7A1446B8B230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D13D17-C7A9-4C43-B398-7A1446B8B230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7FC4EEE-A6C0-4DE0-9F74-8C44CC957700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FC4EEE-A6C0-4DE0-9F74-8C44CC957700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FC4EEE-A6C0-4DE0-9F74-8C44CC957700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FC4EEE-A6C0-4DE0-9F74-8C44CC957700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A0EC5C1-5000-4A2C-9B35-E56D4630C688}
+	EndGlobalSection
+EndGlobal
