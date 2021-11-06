@@ -1,0 +1,17 @@
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core.Tests\bin\Debug\netcoreapp2.1\Factory.Core.Tests.deps.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core.Tests\bin\Debug\netcoreapp2.1\Factory.Core.Tests.runtimeconfig.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core.Tests\bin\Debug\netcoreapp2.1\Factory.Core.Tests.runtimeconfig.dev.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core.Tests\bin\Debug\netcoreapp2.1\Factory.Core.Tests.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core.Tests\bin\Debug\netcoreapp2.1\Factory.Core.Tests.pdb
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core.Tests\obj\Debug\netcoreapp2.1\Factory.Core.Tests.csprojAssemblyReference.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core.Tests\obj\Debug\netcoreapp2.1\Factory.Core.Tests.csproj.CoreCompileInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core.Tests\obj\Debug\netcoreapp2.1\Factory.Core.Tests.AssemblyInfoInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core.Tests\obj\Debug\netcoreapp2.1\Factory.Core.Tests.AssemblyInfo.cs
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core.Tests\obj\Debug\netcoreapp2.1\Factory.Core.Tests.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core.Tests\obj\Debug\netcoreapp2.1\Factory.Core.Tests.pdb
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core.Tests\bin\Debug\netcoreapp2.1\Factory.Core.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core.Tests\bin\Debug\netcoreapp2.1\Factory.Core.pdb
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core.Tests\obj\Debug\netcoreapp2.1\Factory.Core.Tests.csproj.CopyComplete
