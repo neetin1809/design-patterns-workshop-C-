@@ -1,0 +1,17 @@
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch21-state\src\test\State.Core.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch21-state\src\test\State.Core.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch21-state\src\test\State.Core.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch21-state\src\test\State.Core.Tests\bin\Debug\netcoreapp2.1\State.Core.Tests.deps.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch21-state\src\test\State.Core.Tests\bin\Debug\netcoreapp2.1\State.Core.Tests.runtimeconfig.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch21-state\src\test\State.Core.Tests\bin\Debug\netcoreapp2.1\State.Core.Tests.runtimeconfig.dev.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch21-state\src\test\State.Core.Tests\bin\Debug\netcoreapp2.1\State.Core.Tests.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch21-state\src\test\State.Core.Tests\bin\Debug\netcoreapp2.1\State.Core.Tests.pdb
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch21-state\src\test\State.Core.Tests\bin\Debug\netcoreapp2.1\State.Core.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch21-state\src\test\State.Core.Tests\bin\Debug\netcoreapp2.1\State.Core.pdb
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch21-state\src\test\State.Core.Tests\obj\Debug\netcoreapp2.1\State.Core.Tests.csprojAssemblyReference.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch21-state\src\test\State.Core.Tests\obj\Debug\netcoreapp2.1\State.Core.Tests.csproj.CoreCompileInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch21-state\src\test\State.Core.Tests\obj\Debug\netcoreapp2.1\State.Core.Tests.AssemblyInfoInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch21-state\src\test\State.Core.Tests\obj\Debug\netcoreapp2.1\State.Core.Tests.AssemblyInfo.cs
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch21-state\src\test\State.Core.Tests\obj\Debug\netcoreapp2.1\State.Core.Tests.csproj.CopyComplete
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch21-state\src\test\State.Core.Tests\obj\Debug\netcoreapp2.1\State.Core.Tests.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch21-state\src\test\State.Core.Tests\obj\Debug\netcoreapp2.1\State.Core.Tests.pdb

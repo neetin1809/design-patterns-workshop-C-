@@ -1,0 +1,17 @@
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\test\Memento.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\test\Memento.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\test\Memento.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\test\Memento.Test\bin\Debug\netcoreapp2.1\Memento.Test.deps.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\test\Memento.Test\bin\Debug\netcoreapp2.1\Memento.Test.runtimeconfig.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\test\Memento.Test\bin\Debug\netcoreapp2.1\Memento.Test.runtimeconfig.dev.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\test\Memento.Test\bin\Debug\netcoreapp2.1\Memento.Test.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\test\Memento.Test\bin\Debug\netcoreapp2.1\Memento.Test.pdb
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\test\Memento.Test\bin\Debug\netcoreapp2.1\Memento.Core.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\test\Memento.Test\bin\Debug\netcoreapp2.1\Memento.Core.pdb
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\test\Memento.Test\obj\Debug\netcoreapp2.1\Memento.Test.csprojAssemblyReference.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\test\Memento.Test\obj\Debug\netcoreapp2.1\Memento.Test.csproj.CoreCompileInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\test\Memento.Test\obj\Debug\netcoreapp2.1\Memento.Test.AssemblyInfoInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\test\Memento.Test\obj\Debug\netcoreapp2.1\Memento.Test.AssemblyInfo.cs
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\test\Memento.Test\obj\Debug\netcoreapp2.1\Memento.Test.csproj.CopyComplete
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\test\Memento.Test\obj\Debug\netcoreapp2.1\Memento.Test.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\test\Memento.Test\obj\Debug\netcoreapp2.1\Memento.Test.pdb

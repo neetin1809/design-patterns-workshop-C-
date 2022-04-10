@@ -1,0 +1,4 @@
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Visitor.Core\obj\Debug\netcoreapp2.1\Visitor.Core.csprojAssemblyReference.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Visitor.Core\obj\Debug\netcoreapp2.1\Visitor.Core.csproj.CoreCompileInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Visitor.Core\obj\Debug\netcoreapp2.1\Visitor.Core.AssemblyInfoInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Visitor.Core\obj\Debug\netcoreapp2.1\Visitor.Core.AssemblyInfo.cs

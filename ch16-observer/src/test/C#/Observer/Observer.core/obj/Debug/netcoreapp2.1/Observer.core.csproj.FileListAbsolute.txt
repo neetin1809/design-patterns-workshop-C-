@@ -1,0 +1,9 @@
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer\Observer.core\obj\Debug\netcoreapp2.1\Observer.core.csprojAssemblyReference.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer\Observer.core\obj\Debug\netcoreapp2.1\Observer.core.csproj.CoreCompileInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer\Observer.core\obj\Debug\netcoreapp2.1\Observer.core.AssemblyInfoInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer\Observer.core\obj\Debug\netcoreapp2.1\Observer.core.AssemblyInfo.cs
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer\Observer.core\bin\Debug\netcoreapp2.1\Observer.core.deps.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer\Observer.core\bin\Debug\netcoreapp2.1\Observer.core.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer\Observer.core\bin\Debug\netcoreapp2.1\Observer.core.pdb
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer\Observer.core\obj\Debug\netcoreapp2.1\Observer.core.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer\Observer.core\obj\Debug\netcoreapp2.1\Observer.core.pdb

@@ -1,0 +1,9 @@
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch20-chain\src\main\C#\ChainOfResponsibility\ChainOfResponsibility.Core\bin\Debug\netcoreapp2.1\ChainOfResponsibility.Core.deps.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch20-chain\src\main\C#\ChainOfResponsibility\ChainOfResponsibility.Core\bin\Debug\netcoreapp2.1\ChainOfResponsibility.Core.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch20-chain\src\main\C#\ChainOfResponsibility\ChainOfResponsibility.Core\bin\Debug\netcoreapp2.1\ChainOfResponsibility.Core.pdb
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch20-chain\src\main\C#\ChainOfResponsibility\ChainOfResponsibility.Core\obj\Debug\netcoreapp2.1\ChainOfResponsibility.Core.csprojAssemblyReference.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch20-chain\src\main\C#\ChainOfResponsibility\ChainOfResponsibility.Core\obj\Debug\netcoreapp2.1\ChainOfResponsibility.Core.csproj.CoreCompileInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch20-chain\src\main\C#\ChainOfResponsibility\ChainOfResponsibility.Core\obj\Debug\netcoreapp2.1\ChainOfResponsibility.Core.AssemblyInfoInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch20-chain\src\main\C#\ChainOfResponsibility\ChainOfResponsibility.Core\obj\Debug\netcoreapp2.1\ChainOfResponsibility.Core.AssemblyInfo.cs
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch20-chain\src\main\C#\ChainOfResponsibility\ChainOfResponsibility.Core\obj\Debug\netcoreapp2.1\ChainOfResponsibility.Core.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch20-chain\src\main\C#\ChainOfResponsibility\ChainOfResponsibility.Core\obj\Debug\netcoreapp2.1\ChainOfResponsibility.Core.pdb

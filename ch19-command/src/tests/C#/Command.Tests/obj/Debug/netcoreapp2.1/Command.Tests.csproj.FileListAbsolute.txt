@@ -1,0 +1,17 @@
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch19-command\src\tests\C#\Command.Tests\obj\Debug\netcoreapp2.1\Command.Tests.csprojAssemblyReference.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch19-command\src\tests\C#\Command.Tests\obj\Debug\netcoreapp2.1\Command.Tests.csproj.CoreCompileInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch19-command\src\tests\C#\Command.Tests\obj\Debug\netcoreapp2.1\Command.Tests.AssemblyInfoInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch19-command\src\tests\C#\Command.Tests\obj\Debug\netcoreapp2.1\Command.Tests.AssemblyInfo.cs
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch19-command\src\tests\C#\Command.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch19-command\src\tests\C#\Command.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch19-command\src\tests\C#\Command.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch19-command\src\tests\C#\Command.Tests\bin\Debug\netcoreapp2.1\Command.Tests.deps.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch19-command\src\tests\C#\Command.Tests\bin\Debug\netcoreapp2.1\Command.Tests.runtimeconfig.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch19-command\src\tests\C#\Command.Tests\bin\Debug\netcoreapp2.1\Command.Tests.runtimeconfig.dev.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch19-command\src\tests\C#\Command.Tests\bin\Debug\netcoreapp2.1\Command.Tests.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch19-command\src\tests\C#\Command.Tests\bin\Debug\netcoreapp2.1\Command.Tests.pdb
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch19-command\src\tests\C#\Command.Tests\bin\Debug\netcoreapp2.1\Command.Core.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch19-command\src\tests\C#\Command.Tests\bin\Debug\netcoreapp2.1\Command.Core.pdb
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch19-command\src\tests\C#\Command.Tests\obj\Debug\netcoreapp2.1\Command.Tests.csproj.CopyComplete
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch19-command\src\tests\C#\Command.Tests\obj\Debug\netcoreapp2.1\Command.Tests.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch19-command\src\tests\C#\Command.Tests\obj\Debug\netcoreapp2.1\Command.Tests.pdb

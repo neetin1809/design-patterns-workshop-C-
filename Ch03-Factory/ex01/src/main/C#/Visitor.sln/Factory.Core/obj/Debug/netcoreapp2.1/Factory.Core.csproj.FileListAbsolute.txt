@@ -1,0 +1,8 @@
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core\obj\Debug\netcoreapp2.1\Factory.Core.csproj.CoreCompileInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core\obj\Debug\netcoreapp2.1\Factory.Core.AssemblyInfoInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core\obj\Debug\netcoreapp2.1\Factory.Core.AssemblyInfo.cs
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core\bin\Debug\netcoreapp2.1\Factory.Core.deps.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core\bin\Debug\netcoreapp2.1\Factory.Core.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core\bin\Debug\netcoreapp2.1\Factory.Core.pdb
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core\obj\Debug\netcoreapp2.1\Factory.Core.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch24-visitor\ex01\src\main\C#\Visitor.sln\Factory.Core\obj\Debug\netcoreapp2.1\Factory.Core.pdb

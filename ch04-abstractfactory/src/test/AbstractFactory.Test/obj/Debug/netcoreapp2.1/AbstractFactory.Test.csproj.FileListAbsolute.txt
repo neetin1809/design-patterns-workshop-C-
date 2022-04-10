@@ -1,0 +1,17 @@
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\test\AbstractFactory.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\test\AbstractFactory.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\test\AbstractFactory.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\test\AbstractFactory.Test\bin\Debug\netcoreapp2.1\AbstractFactory.Test.deps.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\test\AbstractFactory.Test\bin\Debug\netcoreapp2.1\AbstractFactory.Test.runtimeconfig.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\test\AbstractFactory.Test\bin\Debug\netcoreapp2.1\AbstractFactory.Test.runtimeconfig.dev.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\test\AbstractFactory.Test\bin\Debug\netcoreapp2.1\AbstractFactory.Test.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\test\AbstractFactory.Test\bin\Debug\netcoreapp2.1\AbstractFactory.Test.pdb
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\test\AbstractFactory.Test\bin\Debug\netcoreapp2.1\AbstractFactory.Core.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\test\AbstractFactory.Test\bin\Debug\netcoreapp2.1\AbstractFactory.Core.pdb
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\test\AbstractFactory.Test\obj\Debug\netcoreapp2.1\AbstractFactory.Test.csprojAssemblyReference.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\test\AbstractFactory.Test\obj\Debug\netcoreapp2.1\AbstractFactory.Test.csproj.CoreCompileInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\test\AbstractFactory.Test\obj\Debug\netcoreapp2.1\AbstractFactory.Test.AssemblyInfoInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\test\AbstractFactory.Test\obj\Debug\netcoreapp2.1\AbstractFactory.Test.AssemblyInfo.cs
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\test\AbstractFactory.Test\obj\Debug\netcoreapp2.1\AbstractFactory.Test.csproj.CopyComplete
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\test\AbstractFactory.Test\obj\Debug\netcoreapp2.1\AbstractFactory.Test.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\test\AbstractFactory.Test\obj\Debug\netcoreapp2.1\AbstractFactory.Test.pdb

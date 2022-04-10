@@ -1,0 +1,17 @@
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer.Tests\obj\Debug\netcoreapp2.1\Observer.Tests.csprojAssemblyReference.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer.Tests\obj\Debug\netcoreapp2.1\Observer.Tests.csproj.CoreCompileInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer.Tests\obj\Debug\netcoreapp2.1\Observer.Tests.AssemblyInfoInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer.Tests\obj\Debug\netcoreapp2.1\Observer.Tests.AssemblyInfo.cs
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer.Tests\bin\Debug\netcoreapp2.1\Observer.Tests.deps.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer.Tests\bin\Debug\netcoreapp2.1\Observer.Tests.runtimeconfig.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer.Tests\bin\Debug\netcoreapp2.1\Observer.Tests.runtimeconfig.dev.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer.Tests\bin\Debug\netcoreapp2.1\Observer.Tests.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer.Tests\bin\Debug\netcoreapp2.1\Observer.Tests.pdb
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer.Tests\bin\Debug\netcoreapp2.1\Observer.core.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer.Tests\bin\Debug\netcoreapp2.1\Observer.core.pdb
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer.Tests\obj\Debug\netcoreapp2.1\Observer.Tests.csproj.CopyComplete
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer.Tests\obj\Debug\netcoreapp2.1\Observer.Tests.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch16-observer\src\test\C#\Observer.Tests\obj\Debug\netcoreapp2.1\Observer.Tests.pdb

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0dad6266-a828-40c5-b14a-60bc0c3ce465": {
+      "ProjectGuid": "0dad6266-a828-40c5-b14a-60bc0c3ce465",
+      "DisplayName": "ex01-eagerIntilization",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "20da745c-e9ee-455e-95b3-a0e6296ccbf2": {
+      "ProjectGuid": "20da745c-e9ee-455e-95b3-a0e6296ccbf2",
+      "DisplayName": "ex01-eagrelyintilization",
+      "ColorIndex": 1
+    },
+    "675ff7b9-dd8b-4104-862c-e22c30648707": {
+      "ProjectGuid": "675ff7b9-dd8b-4104-862c-e22c30648707",
+      "DisplayName": "ex02-lazyloading",
+      "ColorIndex": 2
+    },
+    "b9aef502-1dc3-4684-b98c-78be65e2c719": {
+      "ProjectGuid": "b9aef502-1dc3-4684-b98c-78be65e2c719",
+      "DisplayName": "Ex03-DoubleCheck",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

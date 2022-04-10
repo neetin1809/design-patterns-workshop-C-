@@ -1,0 +1,9 @@
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch18-mediator\Mediator\Mediator.Core\bin\Debug\netcoreapp2.1\Mediator.Core.deps.json
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch18-mediator\Mediator\Mediator.Core\bin\Debug\netcoreapp2.1\Mediator.Core.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch18-mediator\Mediator\Mediator.Core\bin\Debug\netcoreapp2.1\Mediator.Core.pdb
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch18-mediator\Mediator\Mediator.Core\obj\Debug\netcoreapp2.1\Mediator.Core.csprojAssemblyReference.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch18-mediator\Mediator\Mediator.Core\obj\Debug\netcoreapp2.1\Mediator.Core.csproj.CoreCompileInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch18-mediator\Mediator\Mediator.Core\obj\Debug\netcoreapp2.1\Mediator.Core.AssemblyInfoInputs.cache
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch18-mediator\Mediator\Mediator.Core\obj\Debug\netcoreapp2.1\Mediator.Core.AssemblyInfo.cs
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch18-mediator\Mediator\Mediator.Core\obj\Debug\netcoreapp2.1\Mediator.Core.dll
+D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch18-mediator\Mediator\Mediator.Core\obj\Debug\netcoreapp2.1\Mediator.Core.pdb
