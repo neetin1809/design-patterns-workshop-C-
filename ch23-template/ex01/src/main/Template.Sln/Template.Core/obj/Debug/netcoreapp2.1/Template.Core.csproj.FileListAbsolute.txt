@@ -1,9 +1,0 @@
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch23-template\ex01\src\main\Template.Sln\Template.Core\bin\Debug\netcoreapp2.1\Template.Core.deps.json
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch23-template\ex01\src\main\Template.Sln\Template.Core\bin\Debug\netcoreapp2.1\Template.Core.dll
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch23-template\ex01\src\main\Template.Sln\Template.Core\bin\Debug\netcoreapp2.1\Template.Core.pdb
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch23-template\ex01\src\main\Template.Sln\Template.Core\obj\Debug\netcoreapp2.1\Template.Core.csprojAssemblyReference.cache
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch23-template\ex01\src\main\Template.Sln\Template.Core\obj\Debug\netcoreapp2.1\Template.Core.csproj.CoreCompileInputs.cache
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch23-template\ex01\src\main\Template.Sln\Template.Core\obj\Debug\netcoreapp2.1\Template.Core.AssemblyInfoInputs.cache
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch23-template\ex01\src\main\Template.Sln\Template.Core\obj\Debug\netcoreapp2.1\Template.Core.AssemblyInfo.cs
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch23-template\ex01\src\main\Template.Sln\Template.Core\obj\Debug\netcoreapp2.1\Template.Core.dll
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch23-template\ex01\src\main\Template.Sln\Template.Core\obj\Debug\netcoreapp2.1\Template.Core.pdb

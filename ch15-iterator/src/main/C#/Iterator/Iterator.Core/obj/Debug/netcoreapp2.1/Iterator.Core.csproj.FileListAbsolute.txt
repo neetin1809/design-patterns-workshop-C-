@@ -1,9 +1,0 @@
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch15-iterator\src\main\C#\Iterator\Iterator.Core\bin\Debug\netcoreapp2.1\Iterator.Core.deps.json
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch15-iterator\src\main\C#\Iterator\Iterator.Core\bin\Debug\netcoreapp2.1\Iterator.Core.dll
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch15-iterator\src\main\C#\Iterator\Iterator.Core\bin\Debug\netcoreapp2.1\Iterator.Core.pdb
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch15-iterator\src\main\C#\Iterator\Iterator.Core\obj\Debug\netcoreapp2.1\Iterator.Core.csprojAssemblyReference.cache
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch15-iterator\src\main\C#\Iterator\Iterator.Core\obj\Debug\netcoreapp2.1\Iterator.Core.csproj.CoreCompileInputs.cache
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch15-iterator\src\main\C#\Iterator\Iterator.Core\obj\Debug\netcoreapp2.1\Iterator.Core.AssemblyInfoInputs.cache
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch15-iterator\src\main\C#\Iterator\Iterator.Core\obj\Debug\netcoreapp2.1\Iterator.Core.AssemblyInfo.cs
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch15-iterator\src\main\C#\Iterator\Iterator.Core\obj\Debug\netcoreapp2.1\Iterator.Core.dll
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch15-iterator\src\main\C#\Iterator\Iterator.Core\obj\Debug\netcoreapp2.1\Iterator.Core.pdb

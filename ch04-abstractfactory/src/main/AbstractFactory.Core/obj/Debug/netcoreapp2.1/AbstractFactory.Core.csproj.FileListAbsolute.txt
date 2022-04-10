@@ -1,9 +1,0 @@
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\main\AbstractFactory.Core\bin\Debug\netcoreapp2.1\AbstractFactory.Core.deps.json
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\main\AbstractFactory.Core\bin\Debug\netcoreapp2.1\AbstractFactory.Core.dll
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\main\AbstractFactory.Core\bin\Debug\netcoreapp2.1\AbstractFactory.Core.pdb
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\main\AbstractFactory.Core\obj\Debug\netcoreapp2.1\AbstractFactory.Core.csprojAssemblyReference.cache
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\main\AbstractFactory.Core\obj\Debug\netcoreapp2.1\AbstractFactory.Core.csproj.CoreCompileInputs.cache
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\main\AbstractFactory.Core\obj\Debug\netcoreapp2.1\AbstractFactory.Core.AssemblyInfoInputs.cache
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\main\AbstractFactory.Core\obj\Debug\netcoreapp2.1\AbstractFactory.Core.AssemblyInfo.cs
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\main\AbstractFactory.Core\obj\Debug\netcoreapp2.1\AbstractFactory.Core.dll
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch04-abstractfactory\src\main\AbstractFactory.Core\obj\Debug\netcoreapp2.1\AbstractFactory.Core.pdb

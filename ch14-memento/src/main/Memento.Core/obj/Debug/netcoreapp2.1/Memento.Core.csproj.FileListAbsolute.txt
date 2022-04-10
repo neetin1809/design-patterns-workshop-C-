@@ -1,9 +1,0 @@
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\main\Memento.Core\bin\Debug\netcoreapp2.1\Memento.Core.deps.json
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\main\Memento.Core\bin\Debug\netcoreapp2.1\Memento.Core.dll
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\main\Memento.Core\bin\Debug\netcoreapp2.1\Memento.Core.pdb
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\main\Memento.Core\obj\Debug\netcoreapp2.1\Memento.Core.csprojAssemblyReference.cache
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\main\Memento.Core\obj\Debug\netcoreapp2.1\Memento.Core.csproj.CoreCompileInputs.cache
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\main\Memento.Core\obj\Debug\netcoreapp2.1\Memento.Core.AssemblyInfoInputs.cache
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\main\Memento.Core\obj\Debug\netcoreapp2.1\Memento.Core.AssemblyInfo.cs
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\main\Memento.Core\obj\Debug\netcoreapp2.1\Memento.Core.dll
-D:\C#\Design Patterns\DesignPattern\design-patterns-workshop-C-\ch14-memento\src\main\Memento.Core\obj\Debug\netcoreapp2.1\Memento.Core.pdb
