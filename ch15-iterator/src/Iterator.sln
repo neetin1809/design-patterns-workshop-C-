@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.Core", "Iterator.Core\Iterator.Core.csproj", "{1435807B-BF5F-4E01-82CC-7C298E58CB35}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.Core", "main\C#\Iterator\Iterator.Core\Iterator.Core.csproj", "{1435807B-BF5F-4E01-82CC-7C298E58CB35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.Tests", "..\..\..\test\C#\Iterator.Tests\Iterator.Tests.csproj", "{595FE273-1777-4E9F-BC21-6022E7E0AABC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.Tests", "test\C#\Iterator.Tests\Iterator.Tests.csproj", "{595FE273-1777-4E9F-BC21-6022E7E0AABC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

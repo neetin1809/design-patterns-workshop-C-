@@ -57,6 +57,7 @@ namespace Iterator.Core
 
         private bool isLeap(int year)
         {
+            //2100 Is Not a Leap Year
             return ((year % 4 == 0 && year % 100 != 0) || (year % 100 == 0 && year % 400 == 0)) ;
         }
     }
