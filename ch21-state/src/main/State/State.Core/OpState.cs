@@ -23,8 +23,13 @@ namespace State.Core
             //calculator.setState(new FirstNumberState(calculator));
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="title"></param>
         public override void storeDigit(String title)
         {
+            //State Changing its State when an 
             calculator.setState(new SecondNumberState(calculator));
             calculator.addToCurrentNumber(title);
         }

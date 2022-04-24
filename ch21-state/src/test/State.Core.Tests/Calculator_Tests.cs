@@ -10,10 +10,10 @@ namespace State.Core.Tests
         {
             Calculator calculator = new Calculator();
 
-            calculator.getOne().click();         // |-----1-|
+            calculator.getOne().click();         // |-----1-| First Number State
             Assert.AreEqual("1", calculator.getDisplay().getText());
 
-            calculator.getZero().click();        // |----10-|
+            calculator.getZero().click();        // |----10-|Second Number State
             Assert.AreEqual("10", calculator.getDisplay().getText());
 
             calculator.getUndo().click();        // |-----1-|
