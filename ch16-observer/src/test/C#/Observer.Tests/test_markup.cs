@@ -14,6 +14,7 @@ namespace Observer.Tests
             PageAuditor auditor = new PageAuditor();
             PageAuditor specailAuditor = new PageAuditor();
             List<string> expectedDetailsList = new List<string>();
+            //Adding Dependent Objects for notification
             navigator.AddListener(auditor);
             navigator.AddListener(specailAuditor);
 
@@ -57,7 +58,6 @@ namespace Observer.Tests
             expectedDetailsList.Add("Cart Page - Products: ");
             expectedDetailsList.Add("Product Page - from: 60 pageSize: 20");
             expectedDetailsList.Add("Cart Page - Products: Paper, Pen, Pencils");
-
 
             for (int i = 0; i < auditor.getDetailsList().Count-1; i++)
             {
