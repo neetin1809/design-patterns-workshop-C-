@@ -36,13 +36,15 @@ namespace Observer.core
             IMemento currentMemento = currentPage.getMemento();
             // assign memento when page or stage is changed
             if (!mementoMap.ContainsKey(currentPage.getPageType()))
-                mementoMap.Add(currentPage.getPageType(), currentPage.getMemento());
+                mementoMap.Add(currentPage.getPageType(), currentMemento);
             currentPage = createPage(page);
             currentMemento = mementoMap.ContainsKey(page) ? mementoMap[page] : null;
             if(currentMemento != null)
             {
                 currentPage.restoreMemento(currentMemento);
             }
+            /* For Momento*/
+            //For Observere: Notifying to Listener
             notifyListeners(oldPage, currentPage);
         }
 
