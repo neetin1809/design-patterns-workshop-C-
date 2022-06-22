@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ch02-singleton/ex01-eager-initialization/ex02-lazyloading/obj/project.nuget.cache
