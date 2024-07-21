@@ -9,6 +9,7 @@ namespace Mediator.Core
         string text;
         Calculator calculator;
 
+        //PAT: Pull Push
         public Display(Calculator calculator)
         {
             this.calculator = calculator;
